@@ -2,7 +2,8 @@
 
 A comprehensive chronicle of modern web design patterns, layouts, and high-fidelity React components. This repository serves as both an interactive documentation site and an aesthetic component library for developers seeking to build production-grade, beautiful user interfaces without the overhead of heavy, opinionated frameworks.
 
-![Web Design Chronicle](https://images.unsplash.com/photo-1558655146-d09347e92766?q=80&w=1200&auto=format&fit=crop) *(Replace with actual screenshot)*
+![Web Design Chronicle]<img width="1362" height="560" alt="Screenshot 2026-04-30 091220" src="https://github.com/user-attachments/assets/ae29ef32-7489-4380-9b2d-260021f7c259" />
+
 
 ## ✨ Importance
 
